@@ -1,0 +1,16 @@
+
+html, body {
+  width: 100%;
+  height: 100%;
+  color: plum;
+}
+
+a {
+  display: flex;
+}
+
+.hello-img {
+  width: 100px;
+  height: 100px;
+  background: url(../assets/img/qq_mm.png) no-repeat;
+}
